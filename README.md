@@ -1,5 +1,5 @@
 # PlantReminder
-my first app using react native (It contains only the frontend) , and here are the screens
+plant reminder app  UI 
 
 Login
 <br><br><br>
