@@ -3,7 +3,7 @@ my first app using react native (It contains only the frontend) , and here are t
 
 Login
 <br><br><br>
-<img src="https://github.com/leilahelhajjamy/PlantReminder/blob/main/src/images/PlantNow/login1.png" width="300" height="610"><br><br><br>
+<img src="https://github.com/leilahelhajjamy/PlantReminder/blob/main/src/images/PlantNow/login1.png" width="300" height="610">
 
 Register<br><br><br>
 <img src="https://github.com/leilahelhajjamy/PlantReminder/blob/main/src/images/PlantNow/register1.png" width="300" height="610"><br><br><br>
